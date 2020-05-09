@@ -1,0 +1,20 @@
+Books
+-----
+
+* Unit Testing Principles, Practices, and Patterns; Vladimir Khorikov
+* The Art of Unit Testing: With Examples in C#; Roy Osherove
+* Test Driven; Lasse Koskela
+* Effective Unit Testing; Lasse Koskela
+* JUnit in Action; Catalin Tudose
+* xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros
+* Test Driven Development: By Example; Kent Beck
+* Growing Object-Oriented Software, Guided by Tests; Steve Freeman, Nat Pryce
+* Working Effectively with Legacy Code; Michael Feathers
+
+Courses
+-------
+* cleancoders.com
+* jbrains.ca
+* industriallogic.com
+* courses.osherove.com 
+* pluralsight.com
